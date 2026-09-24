@@ -1,3 +1,7 @@
+---
+import '../styles/global.css'
+---
+
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
@@ -8,13 +12,13 @@
 		<title>Book Project</title>
 	</head>
 	<body>
-		<header>
-      <h1>Book Project</h1>
-			<nav>
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="/books">Books</a></li>
+		<header class="flex items-center justify-between bg-purple-50 px-1 py-2">
+      <h1 class="text-red-500 text-2xl fond-bold px-5 py-3">Book Project</h1>
+			<nav class="px-5 py-3">
+				<ul class="flex items-center gap-8">
+					<li><a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Home</a></li>
+					<li><a href="/about" class="text-gray-600 hover:text-gray-900 transition-colors">About</a></li>
+					<li><a href="/books" class="text-gray-600 hover:text-gray-900 transition-colors">Books</a></li>
 				</ul>
 			</nav>
 		</header>
