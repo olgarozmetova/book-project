@@ -3,6 +3,7 @@
 
 @theme {
   --font-sans: 'Poppins', sans-serif;
+  --shadow-hard: 8px 8px 0 var(--tw-shadow-color, currentColor);
 }
 
 @layer base {
