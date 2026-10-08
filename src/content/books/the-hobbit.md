@@ -5,15 +5,11 @@ summary: Comfortable hobbit Bilbo Baggins joins dwarves on a quest for dragon go
 rating: 10
 ---
 
-Comfortable hobbit Bilbo Baggins joins dwarves on a quest for dragon gold and discovers more bravery than he thought he had.
+# The Hobbit
 
 ## Protagonists
 
-- **Bilbo Baggins** — a hobbit who likes meals, maps of places he will never visit, and staying home. Then he doesn't.
-- **Gandalf** — the wizard who knocks on the door and refuses to let Bilbo stay small.
-- **Thorin Oakenshield** — leader of the dwarves, proud of his line, hungry for the Lonely Mountain.
-- **Smaug** — the dragon on the gold, vain and terrible.
-- **Gollum** — a creature in the dark, and the riddle game that changes everything later.
+Bilbo Baggins is a hobbit who likes meals, maps of places he will never visit, and staying home, until he doesn't. Gandalf is the wizard who knocks on the door and refuses to let Bilbo stay small. Thorin Oakenshield leads the dwarves, proud of his line and hungry for the Lonely Mountain. Smaug is the dragon on the gold, vain and terrible. Gollum waits in the dark, and the riddle game with him changes everything later.
 
 ## Plot
 
@@ -25,4 +21,4 @@ Tolkien is writing an adventure about leaving your armchair. Home versus the roa
 
 ## Review
 
-Warm, funny, and built for rereading. You can feel the campfire in the prose. It is lighter than *The Lord of the Rings*, which is the point: a hobbit story first, an epic only if you squint. A perfect door into Middle-earth.
+Warm, funny, and built for rereading. You can feel the campfire in the prose. It is lighter than The Lord of the Rings, which is the point: a hobbit story first, an epic only if you squint. A perfect door into Middle-earth.

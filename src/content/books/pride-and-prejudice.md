@@ -5,16 +5,11 @@ summary: Elizabeth Bennet clashes with the proud Mr. Darcy, until both have to r
 rating: 10
 ---
 
-Elizabeth Bennet clashes with the proud Mr. Darcy, until both have to rethink first impressions, class, and what they really want.
+# Pride and Prejudice
 
 ## Protagonists
 
-- **Elizabeth Bennet** — witty, stubborn, and sure she can read people. She is wrong about a few important ones.
-- **Fitzwilliam Darcy** — rich, awkward, proud, and much kinder than his first impression.
-- **Jane Bennet** — Elizabeth's gentle older sister, in love with Mr. Bingley.
-- **Mr. Bingley** — easy-going and rich, too easily steered by his friends.
-- **Mr. Wickham** — charming on the surface, disastrous underneath.
-- **Mrs. Bennet** — a mother whose panic about marriage would be comic if the stakes were not real.
+Elizabeth Bennet is witty, stubborn, and sure she can read people, though she is wrong about a few important ones. Fitzwilliam Darcy is rich, awkward, proud, and much kinder than his first impression. Jane Bennet is Elizabeth's gentle older sister, in love with Mr. Bingley. Mr. Bingley is easy-going and rich, too easily steered by his friends. Mr. Wickham is charming on the surface and disastrous underneath. Mrs. Bennet is a mother whose panic about marriage would be comic if the stakes were not real.
 
 ## Plot
 

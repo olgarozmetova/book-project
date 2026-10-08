@@ -5,15 +5,11 @@ summary: After escaping slavery, Sethe is haunted by the ghost of her child and 
 rating: 7
 ---
 
-After escaping slavery, Sethe is haunted by the ghost of her child and by a past that will not stay buried.
+# Beloved
 
 ## Protagonists
 
-- **Sethe** — a mother who escaped Sweet Home and did something terrible to keep her children from being taken back.
-- **Beloved** — the ghost, or the young woman who arrives claiming that name. Hunger with a body.
-- **Denver** — Sethe's surviving daughter, lonely, watchful, the one who has to step outside the house.
-- **Paul D** — a man from Sweet Home who tries to love Sethe and cannot hold all of her past at once.
-- **Baby Suggs** — Sethe's mother-in-law, who preached self-love in the Clearing until grief closed her down.
+Sethe is a mother who escaped Sweet Home and did something terrible to keep her children from being taken back. Beloved is the ghost, or the young woman who arrives claiming that name: hunger with a body. Denver is Sethe's surviving daughter, lonely, watchful, the one who has to step outside the house. Paul D is a man from Sweet Home who tries to love Sethe and cannot hold all of her past at once. Baby Suggs is Sethe's mother-in-law, who preached self-love in the Clearing until grief closed her down.
 
 ## Plot
 
@@ -21,7 +17,7 @@ After escaping slavery, Sethe is haunted by the ghost of her child and by a past
 
 ## Themes
 
-The book is about slavery's afterlife — not only chains, but what they do to motherhood, to names, to the right to claim your own body. Beloved is personal and historical at once. Remembering is dangerous. Forgetting is another kind of death.
+The book is about slavery's afterlife, not only chains, but what they do to motherhood, to names, to the right to claim your own body. Beloved is personal and historical at once. Remembering is dangerous. Forgetting is another kind of death.
 
 ## Review
 

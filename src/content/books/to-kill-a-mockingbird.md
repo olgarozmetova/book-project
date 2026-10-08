@@ -5,15 +5,11 @@ summary: Scout Finch watches her father defend a Black man in a racist Southern 
 rating: 8
 ---
 
-Scout Finch watches her father defend a Black man in a racist Southern town, and learns what courage and empathy look like.
+# To Kill a Mockingbird
 
 ## Protagonists
 
-- **Scout Finch** — the narrator, a curious girl who tells the story of Maycomb with humor and growing unease.
-- **Jem Finch** — her older brother, who wants to understand the adult world and is hurt when it fails.
-- **Atticus Finch** — their father, a lawyer who defends Tom Robinson and teaches his children to look at people fairly.
-- **Tom Robinson** — a Black man accused of a crime he did not commit.
-- **Boo Radley** — the neighbor the children invent stories about, until they learn who he really is.
+Scout Finch is the narrator, a curious girl who tells the story of Maycomb with humor and growing unease. Jem Finch is her older brother, who wants to understand the adult world and is hurt when it fails. Atticus Finch, their father, is a lawyer who defends Tom Robinson and teaches his children to look at people fairly. Tom Robinson is a Black man accused of a crime he did not commit. Boo Radley is the neighbor the children invent stories about, until they learn who he really is.
 
 ## Plot
 

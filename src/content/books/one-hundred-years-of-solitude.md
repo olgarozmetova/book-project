@@ -5,15 +5,11 @@ summary: The Buendía family lives through generations of love, war, and magic i
 rating: 9
 ---
 
-The Buendía family lives through generations of love, war, and magic in the town of Macondo, where time seems to fold in on itself.
+# One Hundred Years of Solitude
 
 ## Protagonists
 
-- **José Arcadio Buendía** — the founder of Macondo, obsessed with inventions, maps, and impossible knowledge.
-- **Úrsula Iguarán** — the matriarch who holds the family together for a century with will and memory.
-- **Colonel Aureliano Buendía** — a son who goes to war so many times that war becomes his weather.
-- **Remedios the Beauty** — so otherworldly that the book treats her like a myth walking through the kitchen.
-- **Aureliano Babilonia** — one of the last, trying to read the family's encoded fate.
+José Arcadio Buendía is the founder of Macondo, obsessed with inventions, maps, and impossible knowledge. Úrsula Iguarán is the matriarch who holds the family together for a century with will and memory. Colonel Aureliano Buendía is a son who goes to war so many times that war becomes his weather. Remedios the Beauty is so otherworldly that the book treats her like a myth walking through the kitchen. Aureliano Babilonia is one of the last, trying to read the family's encoded fate.
 
 ## Plot
 

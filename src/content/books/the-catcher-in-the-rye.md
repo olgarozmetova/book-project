@@ -5,14 +5,11 @@ summary: Holden Caulfield wanders New York after leaving school, angry at adult 
 rating: 9
 ---
 
-Holden Caulfield wanders New York after leaving school, angry at adult hypocrisy and desperate to protect what still feels innocent.
+# The Catcher in the Rye
 
 ## Protagonists
 
-- **Holden Caulfield** — a teenage narrator who hates "phonies," talks in circles, and is more lost than he admits.
-- **Phoebe Caulfield** — his little sister, the one person who still feels real to him.
-- **Sally Hayes** — a girl from his old life; Holden wants an escape hatch and she wants a normal date.
-- **Mr. Antolini** — a former teacher who tries to help, in a scene that leaves Holden even more unsure.
+Holden Caulfield is a teenage narrator who hates "phonies," talks in circles, and is more lost than he admits. Phoebe Caulfield is his little sister, the one person who still feels real to him. Sally Hayes is a girl from his old life; Holden wants an escape hatch and she wants a normal date. Mr. Antolini is a former teacher who tries to help, in a scene that leaves Holden even more unsure.
 
 ## Plot
 

@@ -1,20 +1,15 @@
 ---
 title: The Name of the Wind
 author: Patrick Rothfuss
-summary: Kvothe, a legendary magician in hiding, tells how a gifted boy became a myth: music, university, and a search for the Chandrian.
+summary: "Kvothe, a legendary magician in hiding, tells how a gifted boy became a myth: music, university, and a search for the Chandrian."
 rating: 6
 ---
 
-Kvothe, a legendary magician in hiding, tells how a gifted boy became a myth: music, university, and a search for the Chandrian.
+# The Name of the Wind
 
 ## Protagonists
 
-- **Kvothe** — red-haired, brilliant, and telling his own legend from a quiet inn. The story is how the myth got made.
-- **Chronicler** — the scribe who wants the true version, three days' worth.
-- **Bast** — Kvothe's student and something not quite human, protective and impatient.
-- **Abenthy (Ben)** — the first teacher, who shows a child that the world has rules you can learn.
-- **Ambrose** — a rival at the University, petty in a way that still causes real damage.
-- **Denna** — a musician Kvothe cannot quite hold onto, as rootless as he is.
+Kvothe is red-haired, brilliant, and telling his own legend from a quiet inn. The story is how the myth got made. Chronicler is the scribe who wants the true version, three days' worth. Bast is Kvothe's student and something not quite human, protective and impatient. Abenthy, called Ben, is the first teacher, who shows a child that the world has rules you can learn. Ambrose is a rival at the University, petty in a way that still causes real damage. Denna is a musician Kvothe cannot quite hold onto, as rootless as he is.
 
 ## Plot
 
@@ -26,4 +21,4 @@ Rothfuss is interested in stories about stories: how a name becomes a reputation
 
 ## Review
 
-Lush, easy to devour, and a little in love with its own narrator — which fits, because Kvothe is too. The magic system is tidy, the University chapters sing, and Denna will divide readers. A strong start to an unfinished-feeling legend. Best if you like voice more than plot speed.
+Lush, easy to devour, and a little in love with its own narrator, which fits, because Kvothe is too. The magic system is tidy, the University chapters sing, and Denna will divide readers. A strong start to an unfinished-feeling legend. Best if you like voice more than plot speed.

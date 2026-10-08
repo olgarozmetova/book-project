@@ -5,14 +5,11 @@ summary: A mysterious millionaire throws lavish parties on Long Island while cha
 rating: 6
 ---
 
-A mysterious millionaire throws lavish parties on Long Island while chasing a lost love, exposing the hollow glitter of the American Dream.
+# The Great Gatsby
 
 ## Protagonists
 
-- **Nick Carraway** — the narrator, a Midwesterner who moves next door to Gatsby and tries to stay honest in a dishonest world.
-- **Jay Gatsby** — a self-made millionaire whose whole life is built around winning back Daisy.
-- **Daisy Buchanan** — Gatsby's old love, charming and careless, trapped in a marriage of money and comfort.
-- **Tom Buchanan** — Daisy's husband: rich, brutal, and sure the world belongs to people like him.
+Nick Carraway is the narrator, a Midwesterner who moves next door to Gatsby and tries to stay honest in a dishonest world. Jay Gatsby is a self-made millionaire whose whole life is built around winning back Daisy. Daisy Buchanan is Gatsby's old love, charming and careless, trapped in a marriage of money and comfort. Tom Buchanan, her husband, is rich, brutal, and sure the world belongs to people like him.
 
 ## Plot
 
